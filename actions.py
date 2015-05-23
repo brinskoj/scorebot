@@ -26,7 +26,7 @@ NFLTeams = {
     'chicago' : 'CHI',
 
     'bengals' : 'CIN',
-    'cincinati' : 'CIN',
+    'cincinnati' : 'CIN',
     'cin' : 'CIN',
 
     'bills' : 'BUF',
@@ -78,7 +78,7 @@ NFLTeams = {
 
     'eagles' : 'PHI',
     'phi' : 'PHI',
-    'philidelphia' : 'PHI',
+    'philadelphia' : 'PHI',
     'philly' : 'PHI',
 
     'falcons' : 'ATL',
